@@ -25,10 +25,10 @@ This program demonstrates my knowledge on:
   * Loops
   * Strings manipulation
 
-ScreenShots of output
-![Output1](https://user-images.githubusercontent.com/29932763/123717804-9cd0ab80-d84b-11eb-971c-f903f5cc635f.PNG)
-![Output2](https://user-images.githubusercontent.com/29932763/123717823-a4905000-d84b-11eb-8357-4a2fe230b299.PNG)
-![Output3](https://user-images.githubusercontent.com/29932763/123717840-afe37b80-d84b-11eb-9989-2ab7694c613d.PNG)
+ScreenShots of output <br /><br />
+![Output1](https://user-images.githubusercontent.com/29932763/123717804-9cd0ab80-d84b-11eb-971c-f903f5cc635f.PNG)<br />
+![Output2](https://user-images.githubusercontent.com/29932763/123717823-a4905000-d84b-11eb-8357-4a2fe230b299.PNG)<br />
+![Output3](https://user-images.githubusercontent.com/29932763/123717840-afe37b80-d84b-11eb-9989-2ab7694c613d.PNG)<br />
 
 
 
