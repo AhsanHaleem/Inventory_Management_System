@@ -1,4 +1,4 @@
-# Inventory Management System
+🏪🛒# Inventory Management System
 Simple store's inventory or products management program for small stores in C programming language.  <br /> <br /> 
 This program will keep track of different products, their price, and their current number of units in stock. <br /> 
 It allows end user to print the entire inventory, add stock to the inventory, and buy products. <br /> <br /> 
